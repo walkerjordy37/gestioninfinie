@@ -4,6 +4,7 @@ django-filter==23.5
 django-cors-headers==4.9.0
 django-extensions==4.1
 drf-spectacular==0.28.0
+drf-nested-routers
 djangorestframework-simplejwt==5.5.1
 celery==5.5.3
 django-celery-beat==2.8.1
@@ -22,4 +23,5 @@ PyYAML==6.0.3
 phonenumbers==9.0.12
 python-dateutil==2.9.0.post0
 gunicorn==21.2.0
+
 
